@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-"""
-Demonstration of the add_time function.
-Shows various examples of how the function works.
-"""
 
 from add_time import add_time
 
